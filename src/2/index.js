@@ -1,3 +1,3 @@
-const App = () => <>This is question 2</>
+const App = () => <>This is code sample 2</>
 
 export default App

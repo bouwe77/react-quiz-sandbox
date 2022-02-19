@@ -1,6 +1,6 @@
 const App = () => (
   <>
-    This is question 1 <b>hello</b>
+    This is code sample 1 <b>hello</b>
   </>
 )
 
