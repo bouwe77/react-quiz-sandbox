@@ -1,2 +1,3 @@
 # react-quiz-sandbox
-Created with CodeSandbox
+
+Code samples I use for my React quiz.
